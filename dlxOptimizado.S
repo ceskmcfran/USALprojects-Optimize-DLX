@@ -1,5 +1,5 @@
-;David Flores Barbero 70907575R
-;Francisco Blázquez Matías 70919093L
+;David Flores Barbero
+;Francisco Blázquez Matías
 
 	.data
 ;Espacio de datos
